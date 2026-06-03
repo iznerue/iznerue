@@ -1,20 +1,13 @@
-## 🪐 hey, i'm rofee.
+# nerue.
 
-a self-taught developer breaking things under the guise of "learning."
+mechanical engineer by training, software enthusiast by curiosity.
 
-- 🌱 **currently learning:**
-  - web development (HTML, CSS, JS)
-  - ruby
-  - nix
-  - rust
-- 🔧 **currently working on:**
-  - my nixos configuration *(it's supposed to be simple.)*
-  - my personal portfolio
-  - astrosense *(pending)*
-- 📫 **reach me at:**
-  - [twitter / x](https://twitter.com/notastrxphe) / [bluesky](https://bsky.app/profile/notastrxphe.bsky.social) — @notastrxphe
-  - [discord](https://discord.com/users/notastrxphe) — via twitter or bluesky first
-  - [matrix](https://matrix.to/#/@notastrxphe:matrix.org) — @notastrxphe:matrix.org *(availability varies)*
-  - [email](mailto:notastrxphe@gmail.com) — notastrxphe@gmail.com
-    
-> *every bug i encounter becomes a mandatory lesson. involuntarily.*
+started with simulations, microcontrollers, engineering tools, and a bit of c.
+
+currently learning web development and exploring where it leads.
+
+online: @itsnerue
+
+contact: itsnerue [at] gmail [dot] com
+
+> _i followed the curiosity and ended up here._
