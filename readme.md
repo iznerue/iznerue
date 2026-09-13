@@ -1,4 +1,4 @@
-# nerue.
+# rue.
 
 mechanical engineer by training, software enthusiast by curiosity.
 
