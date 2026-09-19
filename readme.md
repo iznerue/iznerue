@@ -6,8 +6,8 @@ started with simulations, microcontrollers, engineering tools, and a bit of c.
 
 currently learning web development and exploring where it leads.
 
-online: @itsnerue
+online: @iznerue
 
-contact: itsnerue [at] gmail [dot] com
+contact: iznerue [at] gmail [dot] com
 
 > _i followed the curiosity and ended up here._
